@@ -1,4 +1,4 @@
-| Name | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 |
+| Name | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 | L10 |
 |------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|
 | Rudra Sharma | | | | | | | | | | |
 | Kartikey Singh Tomar | | | | | | | | | | |
@@ -32,6 +32,6 @@
 | Kavya Jain | | | | | | | | | | |
 | Saloni kumari | | | | | | | | | | |
 | Ritvija Katare | | | | | | | | | | |
-|  | | | | | | | | | | |
+| Harshit | | | | | | | | | | |
 
 
